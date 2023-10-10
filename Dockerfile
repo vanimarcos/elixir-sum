@@ -1,5 +1,5 @@
 
-FROM elixir:latest
+FROM elixir:1.15.6-alphine
 
 WORKDIR /home/vm/app
 
